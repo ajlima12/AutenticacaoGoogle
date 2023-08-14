@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Googleteste",
+    "slug": "Googleteste",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
